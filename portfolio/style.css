@@ -7,9 +7,9 @@
     text-decoration: none; 
 }
 :root{
-    --bg-color: #1f1f21;
-    --text-color: #fff;
-    --main-color:#ff0000;
+    --bg-color: #e0e0e0;
+    --text-color: #ffffff;
+    --main-color:#000000d3;
 
     --big-font: 7rem;
     --p-font: 1.1rem; 
